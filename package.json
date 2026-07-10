@@ -1,7 +1,11 @@
 {
   "name": "baileys_zero",
   "type": "module",
+<<<<<<< HEAD
   "version": "1.1.1",
+=======
+  "version": "1.1.0",
+>>>>>>> b3585921309b6ca6426d72b1501cf98b047c02cf
   "description": "A WebSockets library for interacting with WhatsApp Web",
   "keywords": [
     "whatsapp",
